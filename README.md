@@ -1,4 +1,4 @@
-# information_retreival
+# information_retreival and search engine optimization
 
 # Aim
 
